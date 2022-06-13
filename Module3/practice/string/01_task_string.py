@@ -6,5 +6,8 @@
 name = input("Имя: ")
 surname = input("Фамилия: ")
 
+p_name = name.title()
+p_surname = surname.title()
 
-print(name, surname)
+
+print(p_name, p_surname)
