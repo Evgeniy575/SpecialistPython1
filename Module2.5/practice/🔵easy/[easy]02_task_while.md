@@ -15,7 +15,13 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+n = int(input("n: "))
+count = n
+
+while count >= 0:
+    print(count)
+    count -= 1
+
 ```
 
 ---
